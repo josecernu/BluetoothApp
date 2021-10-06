@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BluetoothApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="none_paired">No hay dispositivos emparejados</string>
+    <string name="connecting">Conectando...</string>
+    <string name="bluetooth_on">...Bluetooth On...</string>
+    <string name="device_no_bluetooth">El dispositivo no soporta Bluetooth</string>
+    <string name="data_received">Datos recibidos</string>
+    <string name="string_lenght">Longitud del texto</string>
+    <string name="turn_on_led">Led On</string>
+    <string name="turn_off_led">Led Off</string>
+    <string name="socket_creation_failed">Fallo en creación de socket</string>
+    <string name="connection_failure">Conexión fallida</string>
+    <string name="pair_device">Si no hay dispositivos emparejados, por favor emparejelos desde los Ajustes de Android</string>
+    <string name="select_paired_device">Seleccione el dispositivo Bluetooth</string>
+</resources>
